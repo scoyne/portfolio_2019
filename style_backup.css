@@ -406,7 +406,7 @@ span.middot {
 }
 
 .bgcolor,
-.bgcolor #header-wrap { background-color: #822414 /*change from #1ABC9C */ !important; }
+.bgcolor #header-wrap { background-color: #1ABC9C !important; }
 
 .color { color: #1ABC9C !important; }
 
